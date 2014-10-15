@@ -1,3 +1,21 @@
+# MODEL4821294342: testid
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL4821294342.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL4821294342.git@20140916`
+
+
+# Model Notes
 An approximation to the <a href = "http://www.ncbi.nlm.nih.gov/entrez/query.fc
 gi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11062240 ">Kierzek AM. et
 al. J Biol Chem. (2001) 276(11):8165-72</a> model of LacZ gene expression in
@@ -24,4 +42,5 @@ Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
 Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
 and annotated resource for published quantitative kinetic models. BMC Syst
 Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
 
